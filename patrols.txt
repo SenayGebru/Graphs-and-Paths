@@ -1,0 +1,4 @@
+Sully_Olvar 0 Invalid
+Han 10 Valid
+Leia 10 Valid
+Luke 11 Valid

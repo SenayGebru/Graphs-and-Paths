@@ -1,0 +1,5 @@
+Earth Mars 4
+Mars Jupiter 7
+Earth Jupiter 10
+Jupiter Saturn 3
+Hoth Endor,9 Coruscant,3 Tatooine,1 Dagobah,5 
